@@ -46,8 +46,8 @@
 
 ### 1. Клонировать репозиторий:
 ```bash
-git clone https://github.com/YourLogin/cold-hot.git
-cd cold-hot
+git clone https://github.com/SakatoGin/hangman.git
+cd hangman
 ```
 
 ### 2. Установить зависимости:
@@ -64,6 +64,6 @@ composer dump-autoload -o
 ```bash
 
 ### Проект на Packagist
-https://packagist.org/packages/baklaniso/cold-hot
-./bin/cold-hot
+https://packagist.org/packages/tanner/hangman
+./bin/hangman
 ```
